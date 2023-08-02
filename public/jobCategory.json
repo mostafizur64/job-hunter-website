@@ -1,0 +1,28 @@
+
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/vJVhY9y/chip-1.png",
+        "name": "Accounts & Finances",
+        "number": "123"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/ssZLPjs/social-media-1.png",
+        "name": "Creative Design",
+        "number": "987"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/y64SCcQ/business-1.png",
+        "name": "Marketing & Sales",
+        "number": "903"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/ZN3GVMz/accounts-1.png",
+        "name": "Engineering Job",
+        "number": "789"
+    }
+]
+
